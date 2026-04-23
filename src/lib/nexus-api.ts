@@ -17,7 +17,7 @@ export interface NexusResult {
   medias: MediaItem[];
 }
 
-const API_BASE = "https://backend-api-all-social-media-downlo-nu.vercel.app/api/download";
+const API_BASE = "https://mp1-downloader-api.vercel.app/api/download";
 
 export async function fetchNexus(url: string): Promise<NexusResult> {
   const res = await fetch(`${API_BASE}?url=${encodeURIComponent(url)}`);
