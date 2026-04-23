@@ -66,7 +66,7 @@ const Index = () => {
             <span className="text-gradient">MP1 Downloader</span>
           </h1>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            Unduh Video <span className="text-foreground font-semibold">Unduh Video TikTok, Instagram, Facebook, YouTube, X, Threads, Snapchat, Reddit & 40+ Platform</span>{" "}
+            Unduh Video <span className="text-foreground font-semibold">TikTok, Instagram, Facebook, YouTube, X, Threads, Snapchat, Reddit & 40+ Platform</span>{" "}
             Tanpa Watermark secara Instan.
           </p>
         </motion.section>
